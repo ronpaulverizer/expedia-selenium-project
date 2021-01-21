@@ -10,7 +10,6 @@ import java.time.format.TextStyle;
 import java.util.Locale;
 
 import org.apache.commons.io.FileUtils;
-import org.junit.internal.runners.TestClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.OutputType;
