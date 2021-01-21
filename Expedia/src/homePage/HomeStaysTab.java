@@ -125,6 +125,7 @@ public class HomeStaysTab {
 		for(int x=0;x<5;x++) {
 			f.clickCalendarForwardArrow();
 		}
+		System.out.println("Testing branching");
 		//Assert.assertTrue(f.verifyCalendarDaysAreHighlightedCorrectly());
 		//Assert.assertTrue(f.verifyUserCannotSelectDayOver500InFuture());
 		//Assert.assertTrue(f.verifyUserCannotSelectDayInPast());
